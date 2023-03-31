@@ -23,7 +23,7 @@
 
 ---
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap;">
     <h3>🛠️ Lenguajes y Herramientas : </h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
