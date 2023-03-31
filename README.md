@@ -9,21 +9,17 @@
         </a>
         
     </div>
-    
     ---
     <h2 align="center" style="underline"> 🧑‍💻 Acerca de Mi </h2>
     
     - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
-    
     - 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python y React.
-    
-    - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
-    
+    - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com
     - 🌱 Actualmente me encuentro estudiando y aprendiendo React, y React Native.
     
     ---
     
-    <div>
+   <div>
         <h2 align="center">🛠️ Lenguajes y Herramientas</h2>
         <div>
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
