@@ -47,8 +47,13 @@
   
 </div>
 <div align="center">
-![ferchulobo777 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferchulobo777&show_icons=true&theme=merko&hide_border=true)
+  
+  ![ferchulobo777 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferchulobo777&show_icons=true&theme=merko&hide_border=true)
+  
 </div>
+
 <div align="center">
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
