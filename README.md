@@ -41,7 +41,11 @@
 
 <h2 align="center">📊 Mis Estadisticas</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&align=center&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
 ![ferchulobo777 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferchulobo777&show_icons=true&theme=merko&hide_border=true)
 
