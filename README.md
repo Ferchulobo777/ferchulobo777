@@ -20,3 +20,12 @@
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
 
 - 🌱 Actualmente me encuentro estudiando y aprendiendo React, y React Native.
+
+---
+
+<div>
+    <h3>🛠️ Lenguajes y Herramientas : </h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+    </div>
+</div>
