@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="100%">
 <h1 align="center">Hola, 👋 soy Fernando Gabriel Rodriguez</h1>
 <h3 align="center">Desarrollador web Full Stack Junior con experiencia en la creación de aplicaciones web desde la concepción hasta la implementación final. Experto en lenguajes de programación como HTML, CSS, JavaScript y en la creación de aplicaciones web utilizando herramientas como React, Tailwind y Sass. Capaz de trabajar en todas las capas de una aplicación web, desde el lado del servidor hasta el lado del cliente, con habilidades en diseño y programación de la lógica de negocio y la base de datos subyacente. Además, cuenta con experiencia en el desarrollo de aplicaciones móviles utilizando tecnologías como React Native e Ionic. Comprometido con la mejora continua y el aprendizaje constante, con el objetivo de alcanzar la excelencia técnica en todas las áreas del desarrollo web.</h3>
 </div>
@@ -23,7 +23,7 @@
 
 ---
 
-<div>
+<>
     <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
@@ -38,19 +38,13 @@
     </div>
 
 ---
-
-<div style="text-align: center;">
-    <h2>📊 Mis Estadisticas</h2>
-    
-    <div style="display: inline-block;">
+    <h2>📊 Mis Estadisticas</h2   
+    <div align: "center">
       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     </div>
-    
-    <div style="display: inline-block;">
+    <div align: "center">
       ![ferchulobo777 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferchulobo777&show_icons=true&theme=merko&hide_border=true)
     </div>
-    
-    <div style="display: inline-block;">
+    <div align: "center">
       [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
     </div>
-  </div>
