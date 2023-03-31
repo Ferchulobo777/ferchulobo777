@@ -31,15 +31,15 @@
 ---
 <h2 align="center" >🧑‍💻 Acerca de Mi </h2>
     
-    - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
+- 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
 
-    - 📚 Actualmente estoy estudiando en Academlo.
+- 📚 Actualmente estoy estudiando en Academlo.
     
-    - 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python y React.
+- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python y React.
     
-    - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
+- 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
-    - 🌱 Actualmente me encuentro estudiando y aprendiendo React, y React Native.
+- 🌱 Actualmente me encuentro estudiando y aprendiendo React, y React Native.
     
 ---
  <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
