@@ -11,7 +11,7 @@
 </div>
 
 ---
-### 🧑‍💻 Acerca de Mi :
+<h2 align="center" >🧑‍💻 Acerca de Mi </h2>
 
 - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
 
@@ -24,7 +24,7 @@
 ---
 
 <div>
-    <h3>🛠️ Lenguajes y Herramientas : </h3>
+    <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Mis Estadisticas :
+<h2 align="center" >📊 Mis Estadisticas</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
