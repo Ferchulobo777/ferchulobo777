@@ -11,7 +11,7 @@
 </div>
 
 ---
-### 🧑‍💻 Acerca de Mi :
+<h3 align="center" style="underline"> 🧑‍💻 Acerca de Mi </h3>
 
 - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
 
