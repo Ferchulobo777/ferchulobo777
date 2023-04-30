@@ -39,7 +39,7 @@
     
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
-- 🌱 Actualmente me encuentro estudiando y aprendiendo React, y React Native.
+- 🌱 Actualmente me encuentro estudiando y aprendiendo node-js, express y sequelize.
     
 ---
  <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
