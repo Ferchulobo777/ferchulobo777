@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="350">
     <h1 align="center">Hola, 👋 soy Fernando Gabriel Rodriguez</h1>
-    <h3 align="justify">Desarrollador web Full Stack certificado con experiencia en la creación de aplicaciones web desde la concepción hasta la implementación final. Experto en lenguajes de programación como HTML, CSS, JavaScript y en la creación de aplicaciones web utilizando herramientas como React, Tailwind y Sass. Capaz de trabajar en todas las capas de una aplicación web, desde el lado del servidor hasta el lado del cliente, con habilidades en diseño y programación de la lógica de negocio y la base de datos subyacente. Además, cuento con experiencia en el desarrollo de aplicaciones móviles utilizando tecnologías como React Native. Comprometido con la mejora continua y el aprendizaje constante, con el objetivo de alcanzar la excelencia técnica en todas las áreas del desarrollo web.</h3>
+    <h3 align="justify">Desarrollador web Full Stack certificado con experiencia en la creación de aplicaciones web desde la concepción hasta la implementación final. conocimiento avanzado en lenguajes de programación como HTML, CSS, JavaScript y en la creación de aplicaciones web utilizando herramientas como React, Tailwind y Sass. Capaz de trabajar en todas las capas de una aplicación web, desde el lado del servidor hasta el lado del cliente, con habilidades en diseño y programación de la lógica de negocio y la base de datos subyacente. Además, tengo conocimiento en el desarrollo de aplicaciones móviles utilizando tecnologías como React Native. Comprometido con la mejora continua y el aprendizaje constante, con el objetivo de alcanzar la excelencia técnica en todas las áreas del desarrollo web.</h3>
 </div>
 <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/ferchulobo777/" target="_blank">
@@ -35,7 +35,7 @@
 
 - 📚 Certificado como Full-Stack en Academlo.
     
-- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python, React. Node-js, Express, Postgres SQL, Sequelize.
+- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python, React. Node-js, Express, Postgres SQL, My SQL, Sequelize, Jest.
     
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
@@ -56,6 +56,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres SQL" alt="Postgres SQL" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="My SQL" alt="My SQL" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
         </div>
     
  ---
