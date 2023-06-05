@@ -33,25 +33,29 @@
     
 - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programacion.
 
-- 📚 Actualmente estoy estudiando en Academlo.
+- 📚 Certificado como Full-Stack en Academlo.
     
-- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python y React.
+- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python, React. Node-js, Express, Postgres SQL, Sequelize.
     
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
-- 🌱 Actualmente me encuentro estudiando y aprendiendo node-js, express y sequelize.
+- 🌱 Actualmente me encuentro estudiando React Native y Angular.
     
 ---
  <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
  <div>
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres SQL" alt="Postgres SQL" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="My SQL" alt="My SQL" width="50" height="50"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
         </div>
     
  ---
