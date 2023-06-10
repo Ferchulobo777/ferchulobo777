@@ -35,7 +35,7 @@
 
 - 📚 Certificado como Full-Stack en Academlo.
     
-- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python, React. Node-js, Express, Postgres SQL, My SQL, MongoDB Sequelize, Jest.
+- 🧠 Puedes preguntarme acerca de HTML, CSS, Tailwind, Sass, JavaScript, Python, React. Node-js, Express, Postgres SQL, My SQL, MongoDB, Sequelize, Jest.
     
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
