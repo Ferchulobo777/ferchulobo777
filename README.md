@@ -39,7 +39,7 @@
     
 - 📫 Puedes contactarme por aqui ferchulobo2015@gmail.com.
     
-- 🌱 Actualmente me encuentro estudiando React Native, Angular, MongoDB.
+- 🌱 Actualmente me encuentro estudiando Angular, Java, y SpringBoot.
     
 ---
  <h2 align="center" >🛠️ Lenguajes y Herramientas </h2>
