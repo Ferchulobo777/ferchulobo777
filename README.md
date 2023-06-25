@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="350">
+    <img src="[https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif](https://media.licdn.com/dms/image/D4D16AQGYLVQ74oaPgg/profile-displaybackgroundimage-shrink_350_1400/0/1687711168598?e=1693440000&v=beta&t=928PtR5XS-fuUnB-t03lDCkV05IutEkPqAvXgjS_1EI)" width="350">
     <h1 align="center">Hola, 👋 soy Fernando Rodriguez</h1>
     <h3 align="justify">Desarrollador web Full Stack certificado con experiencia en la creación de aplicaciones web desde la concepción hasta la implementación final. conocimiento avanzado en lenguajes de programación como HTML, CSS, JavaScript y en la creación de aplicaciones web utilizando herramientas como React, Tailwind y Sass. Capaz de trabajar en todas las capas de una aplicación web, desde el lado del servidor hasta el lado del cliente, con habilidades en diseño y programación de la lógica de negocio y la base de datos subyacente. Además, tengo conocimiento en el desarrollo de aplicaciones móviles utilizando tecnologías como React Native. Comprometido con la mejora continua y el aprendizaje constante, con el objetivo de alcanzar la excelencia técnica en todas las áreas del desarrollo web.</h3>
 </div>
