@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1687727452/Brown_Wood_Minimalist_Profile_LinkedIn_Banner_o5fmin.png" width="1200">
     <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=Ferchulobo777&color=FFD700" width="200" height="25">
+    <img src="https://komarev.com/ghpvc/?username=Ferchulobo777&color=FFD700" width="200" height="30">
     </div>
     <h1 align="center" width="1200">Hola, 👋 soy <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a>
         </div></h1>
