@@ -65,14 +65,16 @@
 ---
  
 <h2 align="center">📊 Mis Estadisticas</h2>   
-<div align="left" width="1200">
+<div align="left">
     
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
 
 </div>
-     
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="right">
     
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>    
+
  ![ferchulobo777 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferchulobo777&show_icons=true&theme=merko&hide_border=true)
     
  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
