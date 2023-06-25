@@ -60,6 +60,8 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
         </div>
+        <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a></div>
+              
     
  ---
  <h2 align="center">📊 Mis Estadisticas</h2>   
