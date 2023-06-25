@@ -65,7 +65,7 @@
 ---
  
  <h2 align="center">📊 Mis Estadisticas</h2>   
- <div style="display: flex; justify-content: space-evenly;"">
+ <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
      
