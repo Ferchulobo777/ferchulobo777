@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://res.cloudinary.com/dpvzlh1zv/image/upload/v1687727452/Brown_Wood_Minimalist_Profile_LinkedIn_Banner_o5fmin.png" width="1200">
-    <img src="https://komarev.com/ghpvc/?username=Ferchulobo777&color=ff69b4" width="1200"> 
+    <img src="https://komarev.com/ghpvc/?username=Ferchulobo777&color=FFD700"> 
     <h1 align="center">Hola, 👋 soy <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a>
         </div></h1>
     <h3 align="justify">Desarrollador web Full-Stack certificado con experiencia en la creación de aplicaciones web desde la concepción hasta la implementación final. conocimiento avanzado en lenguajes de programación como HTML, CSS, JavaScript y en la creación de aplicaciones web utilizando herramientas como React, Tailwind y Sass. Capaz de trabajar en todas las capas de una aplicación web, desde el lado del servidor hasta el lado del cliente, con habilidades en diseño y programación de la lógica de negocio y la base de datos subyacente. Además, tengo conocimiento en el desarrollo de aplicaciones móviles utilizando tecnologías como React Native. Comprometido con la mejora continua y el aprendizaje constante, con el objetivo de alcanzar la excelencia técnica en todas las áreas del desarrollo web.</h3>
@@ -69,7 +69,6 @@
 <div align="center">
     
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
-![Profile views](https://gpvc.arturio.dev/Ferchulobo777)
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
