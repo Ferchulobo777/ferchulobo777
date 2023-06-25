@@ -59,20 +59,16 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
- </div>              
----
-<div align="center">
-    <a href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-</div>
+ </div>
 
+---
 <div align="center">
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1">
         <a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a>
     </div>
 </div>
+
 ---
  <h2 align="center">📊 Mis Estadisticas</h2>   
  <div align="center">
