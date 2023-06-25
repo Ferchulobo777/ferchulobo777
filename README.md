@@ -63,10 +63,9 @@
 
 ---
 <div align="center">
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1">
-        <a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a>
-    </div>
+        <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ferchulobo777" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/ferchulobo777?trk=profile-badge">Fernando Rodriguez</a>
+        </div>
 </div>
 
 ---
@@ -80,4 +79,4 @@
  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  </div>
     
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
