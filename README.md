@@ -61,7 +61,9 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
  </div>
- ---
+ 
+---
+ 
  <h2 align="center">📊 Mis Estadisticas</h2>   
  <div align="center">
         
