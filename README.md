@@ -65,12 +65,12 @@
 ---
  
 <h2 align="center">📊 Mis Estadisticas</h2>   
-<div align="left">
+<div align="center">
     
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
 
 </div>
-<div align="right">
+<div align="center">
     
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferchulobo777&theme=merko&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>    
