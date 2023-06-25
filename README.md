@@ -65,10 +65,9 @@
 ---
  
  <h2 align="center">📊 Mis Estadisticas</h2>   
- <div align="center">
+ <div style="display: flex; justify-content: center;"">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=[https://github.com/Tanu-N-Prabhu/Python](https://github.com/Ferchulobo777/ferchulobo777)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
      
