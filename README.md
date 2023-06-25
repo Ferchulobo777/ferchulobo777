@@ -65,7 +65,7 @@
 ---
  
  <h2 align="center">📊 Mis Estadisticas</h2>   
- <div align="row">
+ <div>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
      
