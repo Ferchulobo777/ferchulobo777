@@ -73,5 +73,3 @@
     
  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  </div>
-    
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
