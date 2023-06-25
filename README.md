@@ -74,6 +74,6 @@
  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ferchulobo777&hide_progress=false&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 ---
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ferchulobo777)
  ---
 ![Jokes Card](https://readme-jokes.vercel.app/api)
