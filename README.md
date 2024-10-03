@@ -24,8 +24,6 @@
 
 - 🧑‍🎓 Me encanta aprender y formarme continuamente en todo lo relacionado a la programación.
 
-- 🧠 Puedes preguntarme acerca de CSS, Tailwind, Sass, JavaScript, Python, Node.js, Express, PostgreSQL, MySQL, MongoDB, Sequelize, Jest.
-
 - 📫 Puedes contactarme por aquí: ferchulobo2015@gmail.com.
 
 - 🌱 Actualmente me encuentro estudiando Angular, Java y SpringBoot.
