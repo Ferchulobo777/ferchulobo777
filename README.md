@@ -21,7 +21,7 @@ Técnico en Desarrollo Web & Desarrollo de Software · Mendoza, Argentina 🇦�
 
 Construyo software en producción y lo automatizo con agentes de IA — de la arquitectura backend a la marca que lo presenta. Trece años de disciplina operativa en entornos de alta exigencia (infraestructura crítica, soporte a 200+ usuarios) aplicados hoy al desarrollo: arquitecturas backend con Clean Architecture, automatización de flujos con agentes de codificación (Claude Code, Copilot, Cursor) y N8N, y dos marcas propias llevadas de cero a producción — diseño, frontend, backend y pagos, resueltos de punta a punta.
 
-📫 **¿Hablamos de tu próximo proyecto?** Disponible para roles fullstack, automatización con IA y freelance de producto digital → [portfolio-2026-three-xi.vercel.app](https://portfolio-2026-three-xi.vercel.app/#contacto)
+📫 **¿Hablamos de tu próximo proyecto?** Disponible para roles fullstack, automatización con IA y freelance de producto digital → [ferchulobo2015@gmail.com](ferchulobo2015@gmail.com)
 
 ## 🛠️ Cuatro formas de resolver el mismo problema
 
